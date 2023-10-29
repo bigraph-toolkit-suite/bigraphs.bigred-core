@@ -6,7 +6,7 @@
 
     <groupId>org.bigraphs.model</groupId>
     <artifactId>bigred-core</artifactId>
-    <version>1.0.0.20130228</version>
+    <version>1.0.0.20130228-1</version>
     <name>Core bigraph.org model</name>
     <description>This project contains only the core bigraph model of Big Red, which is a graphical development environment for bigraphs.</description>
     <url>https://github.com/bigraph-toolkit-suite/bigraphs.bigred-core</url>

@@ -19,7 +19,7 @@ This artifact is deployed to the Central Repository.
 <dependency>
     <groupId>org.bigraphs.model</groupId>
     <artifactId>bigred-core</artifactId>
-    <version>1.0.0.20130228</version>
+    <version>1.0.0.20130228-1</version>
 </dependency>
 ```
 
